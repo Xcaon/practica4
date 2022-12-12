@@ -12,7 +12,7 @@ public class Coche {
 	private int entrada;
 	private int cuota;
 	private String nombreConductor;
-	private String prueba;
+	private String prueba1;
 	 
     //Constructor 
     //@param message to be printed 
